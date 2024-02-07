@@ -1,4 +1,4 @@
-|# Employee Management System
+# Employee Management System
 
 This Python program is an employee management system that allows for the management of employee records within an organization. It offers functionalities to add new employees, view all employee details, update employee salaries, and delete employees based on age criteria.
 
@@ -45,3 +45,4 @@ This Python program is an employee management system that allows for the managem
 
 # Exit the program
 5 -> Ends the program execution.
+
